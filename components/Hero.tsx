@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Prahant, a Nodejs Developer based in India.
+            Hi! I&apos;m Prashant, a Nodejs Developer based in India.
           </p>
 
           <a href="#about">
